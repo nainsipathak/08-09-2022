@@ -1,9 +1,9 @@
 package com.exercise.bll;
 
 import java.util.Scanner;
-public class WhileLoop{
+public class WhileLoop {
 
-	public static void main(String[] args)
+	public static void main(String[] args) {
     
         int firstNum, secondNum;
         Scanner sc = new Scanner(System.in);
@@ -36,8 +36,9 @@ public class WhileLoop{
         System.out.println("Sum of odd numbers = ");
     
 	sc.close();
+	}
  }
-}
+
 
 
     
